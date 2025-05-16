@@ -3,7 +3,7 @@
 
 > **Sistema:** CCP Store  
 > **Tecnología usada:** Playwright + Axe-core  
-> **Repositorio base:** [https://github.com/isinning1/pruebas-e2e-playwright](https://github.com/isinning1/pruebas-e2e-playwright)  
+> **Repositorio base:** 
 > **Semana:** 6  
 
 ---
