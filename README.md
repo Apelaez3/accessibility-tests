@@ -10,7 +10,7 @@
 
 ## 🧭 Contexto y Alcance
 
-El proyecto **CCP Store** busca garantizar no solo la funcionalidad, sino también la **accesibilidad** de su plataforma web, alineada con los principios de las **Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1**. En esta etapa, se integraron pruebas automatizadas con **Axe-core** para detectar barreras de accesibilidad en pantallas clave y flujos principales.
+El proyecto **CCP Store** busca garantizar no solo la funcionalidad, sino también la **accesibilidad** de su plataforma web, alineada con los principios de las **Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1**. En esta etapa, se integraron pruebas  con **Axe-core** para detectar barreras de accesibilidad en pantallas clave y flujos principales.
 
 ### ✅ Flujos evaluados
 
@@ -39,7 +39,7 @@ El proyecto **CCP Store** busca garantizar no solo la funcionalidad, sino tambi�
 | **axe-core/playwright**  | 4.8.2       | Motor de pruebas de accesibilidad WCAG |
 | **Node.js**              | 22.15.17    | Entorno de ejecución |
 | **Browsers**             | Chromium    | Evaluación web multiplataforma |
-| **Sistema operativo**    | Windows 10  | Desarrollo y pruebas locales |
+| **Sistema operativo**    | mac OS  | Desarrollo y pruebas locales |
 
 ---
 
