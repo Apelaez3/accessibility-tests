@@ -3,7 +3,8 @@
 
 > **Sistema:** CCP Store  
 > **Tecnología usada:** Playwright + Axe-core  
-> **Repositorio base:** 
+> **Documento de prueba:**  [Pruebas de accesibilidad.pdf](https://github.com/user-attachments/files/20265813/Pruebas.de.accesibilidad.pdf)
+
 > **Semana:** 6  
 
 ---
@@ -90,8 +91,6 @@ El proyecto **CCP Store** busca garantizar no solo la funcionalidad, sino tambi�
 
 ## 🚀 Próximos Pasos
 
-- [ ] Integrar pruebas Axe a los flujos CI/CD con GitHub Actions.  
-- [ ] Aumentar cobertura a pantallas móviles con emulación y tests responsivos.  
 - [ ] Extender cobertura a formularios de login y carritos de compra.  
 - [ ] Ejecutar validaciones manuales con lectores de pantalla (NVDA, VoiceOver).
 
