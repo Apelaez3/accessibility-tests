@@ -107,12 +107,10 @@ El proyecto **CCP Store** busca garantizar no solo la funcionalidad, sino tambi�
 
 ## 🚀 Próximos Pasos
 
-- [ ] Corregir violaciones priorizadas en los flujos evaluados.  
-- [ ] Extender pruebas a los módulos de **login**, **checkout** y **carrito de compras**.  
-- [ ] Validar manualmente con herramientas como **NVDA** o **VoiceOver**.  
+- [ ] Corregir violaciones priorizadas en los flujos evaluados.   
 - [ ] Establecer pruebas de accesibilidad como parte del pipeline de CI/CD.
 
 ---
 
-> *Documento elaborado por Grupo 21 – Semana 6. Revisión consolidada por equipo QA especializado en accesibilidad digital.*
+> *Documento elaborado por Grupo 21 – Semana 6.*
 
